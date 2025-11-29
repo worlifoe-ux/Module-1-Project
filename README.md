@@ -5,3 +5,4 @@ Smart Waste Tracker is an IoT-based system for monitoring waste levels in urban 
 
 ## Team Member
 Quinton Alexandre
+Edited by Quinton on branch Quinton-branch
